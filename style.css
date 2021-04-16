@@ -1,0 +1,171 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.one {
+  min-height: 23px;
+  /* min-width: 96px; */
+  border: 1px solid hsl(220, 26%, 56%);
+  background-color:hsl(220, 43%, 96%);
+}
+div.two {
+  min-height: 23px;
+  margin-left: 23px;
+  font-size: 1.2rem;
+  line-height: 30px;
+
+}
+div.cv {
+  border: 1px solid hsl(220, 26%, 56%);
+  display: flex;
+  flex-direction: column;
+  width: 538px;
+  margin: 4rem;
+}
+div.one p {
+  margin-left: 23px;
+  letter-spacing: 1px;
+  font-size: 2.5rem;
+  word-spacing: 8px;
+}
+div.cv2 {
+  border: 1px solid hsl(220, 26%, 56%);
+  display: flex;
+  flex-direction: column;
+  width: 401px;
+  margin-left: 4rem;
+  margin-top: -62px;
+  
+}
+div.one1 {
+  min-height: 23px;
+  /* min-width: 96px; */
+  border: 1px solid hsl(220, 26%, 56%);
+  background-color: rgba(239, 243, 249, 0.6);
+}
+div.one1 p {
+  margin-left: 23px;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+  word-spacing: 8px;
+}
+div.two2 {
+  margin-left: 23px;
+  font-size: 1.2rem;
+  line-height: 25px;
+}
+div.cv3 {
+  border: 1px solid hsl(220, 26%, 56%);
+  /* display: flex;
+  flex-direction: column; */
+  width: 88vw;
+  margin-left: 4rem;
+  margin-top: 7px;
+  
+}
+div.two3 {
+  margin-left: 23px;
+  font-size: 1.2rem;
+  line-height: 25px;
+
+
+}
+div.table {
+    width: 42vw;
+    height: 77px;
+    position: relative;
+    border: 1px solid hsl(220, 26%, 56%);
+    float: right;
+    top: -77px;
+    left: -6.2%;
+    /* padding: .5rem; */
+    padding-left: 1rem;
+     font-size: 1.2rem;
+  line-height: 25px;
+}
+div.objective {
+    width: 88vw;
+     margin-left: 4rem;
+       border: 1px solid hsl(220, 26%, 56%);
+    
+}
+
+div.objective p{
+    margin-left: 23px;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+div.objective h2{
+    margin-left: 23px;
+    
+}
+td.zur1 {
+    border: 1px solid black;
+}
+   td, th.june-head, th.edu-group, th.lang{ 
+  border: 1px solid hsl(220, 26%, 56%);
+  font-size: 1.2rem;
+  text-align: left;
+  padding: 8px;
+
+}
+div.objective > div.background {
+    background-color: rgba(239, 243, 249, 0.6);
+}
+table {
+      border-collapse: collapse;
+     
+
+}
+th.edu-group {
+    width: 13.5rem;
+}
+th.june-head {
+    padding-bottom: 13rem;
+     width: 12rem;
+}
+th.nov {
+    padding-bottom: 8rem;
+     width: 12rem;
+     font-size: 1.3rem;
+}
+th.march-head {
+    padding-bottom: 5rem;
+     width: 11rem;
+     border: 1px solid black;
+     font-size: 1.3rem;
+    
+}
+table.experience {
+    margin-bottom: 3rem;
+    width: 86vw;
+    /* border: black; */
+    margin-left: 1rem;
+}
+table.december {
+    width: 86vw;
+    /* border: black; */
+    margin-left: 1rem;
+}
+table.j17, table.may, table.november {
+    width: 88vw;
+    
+}
+div.education {
+    margin-top: 12px;
+}
+
+div.education, div.other-skills {
+    width: 88vw;
+    margin-left: 4rem;
+    background-color: rgba(239, 243, 249, 0.6);
+    border: 1px solid hsl(220, 26%, 56%);
+    padding-left: 1rem;
+    padding-top: 1.4rem;
+}
+div.edu-table, div.other-skills2, div.referee {
+    padding-left: 4rem;
+    
+}
